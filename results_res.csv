@@ -1,0 +1,2 @@
+model,train_res,eval_res,acc1,acc5,loss
+ViT-5-base,224,224,0.0,2.0,6.6789469718933105
